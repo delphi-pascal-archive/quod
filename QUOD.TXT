@@ -1,0 +1,41 @@
+QUOD (VERSION 1.00)   Copyright (c) 1996 Ziff Davis Publishing Company
+----------------------------------------------------------------------
+QUOD by Michael J. Mefford               First Published June 25, 1996
+----------------------------------------------------------------------
+
+ABOUT QUOD
+           Quod, a game invented by G. Keith Still, has simple rules,
+but playing well requires sophisticated strategy. The goal is to place
+pieces on a grid so that they form a square. The player who makes a
+square first wins. DESCRIPTION
+           Quod is played on an 11-by-11 square grid board with the 
+four corners missing. Players take turns placing pieces on the board.
+Each player begins the game with 20 attacking (colored) pieces and 6
+blocking (white) pieces. The object of the game is to outmaneuver your
+opponent and be the first to outline a square, called a quod, by 
+capturing its four corners with your colored attacking pieces. You use
+the blocking pieces only for blocking your opponent's squares; they 
+don't count toward making squares of your own.
+On each turn you place one attacking piece on the board. Optionally, you
+can place any number of blocking pieces, up to the six allotted, before
+placing the attacking piece. If both players run out of attacking pieces
+before either has made a quod, the player with the most unplayed 
+blocking pieces is declared the winner. If each has the same amount of
+blocking pieces (or if neither has any), the game is declared a draw. 
+A winning square can be any size and orientation, and this is why 
+playing Quod well requires strategy.
+To install the Quod program, copy the files QUOD.EXE and QUOD.HLP to 
+a subdirectory on your hard disk and create an icon for Quod in your 
+shell. Quod is a 16-bit Windows program and will run under Windows 3.1,
+Windows 95, and Windows NT. When you launch Quod, you'll see a picture 
+of a Quod board set up for a new game, with program controls along the 
+right edge. You can obtain information on rules, strategies, and program
+operation by pressing the Help button.SUPPORT
+       Help for PC Magazine's free utilities can be obtained 
+electronically in the Utilities section of ZD Net's Tips Forum 
+(GO ZNT:TIPS). The authors of current utilities generally visit this 
+forum daily. You may find an answer to your question simply by reading 
+the messages posted in the forum. If the author is not available and the 
+forum sysops can't answer your question, the Utilities column editor, 
+who also checks this forum each day, will contact the author for you.
+Michael J. Mefford is a contributing editor of PC Magazine.
